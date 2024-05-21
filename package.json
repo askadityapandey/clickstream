@@ -1,0 +1,11 @@
+{
+    "name": "clickstream", 
+    "version": "1.0.0",
+    "description": "A library for generating social media sharing buttons",
+    "main": "clickstream.js",    "scripts": {
+  
+      "test": "echo \"**No tests implemented yet**\""
+    },
+    "author": "Aditya Pandey",
+    "license": "MIT" }
+  
